@@ -11,7 +11,7 @@ If you have extensions, plugins, blog articles, tips&tricks about pimcore and yo
 
 * [Example Plugin](https://github.com/pimcore/plugin-example) - A pimcore plugin skelton
 * [Form Builder](https://github.com/brainsbucket/Zendformbuilder) - Build Zend_Form quickly and easily (1.4.5 and higher)
-* [SphinxSearch] (https://github.com/ThomasKeil/pimcore-plugin-SphinxSearch) - Sphinx full-text search engine with Pimcore.
+* [SphinxSearch](https://github.com/ThomasKeil/pimcore-plugin-SphinxSearch) - Sphinx full-text search engine with Pimcore.
 * [Dynamic Dropbox](https://github.com/ThomasKeil/pimcore-plugin-DynamicDropdown) - Adds an input element to pimcore that gets it's data from object contents 
 * [Piwik](https://github.com/pimcore-extensions/Piwik) - Integration Plugin for Piwik into Pimcore
 * [Object Input Restrction](https://github.com/ThomasKeil/pimcore-plugin-ObjectInputRestriction) - Restrict the rights to access input elements based on Users/Roles
@@ -25,6 +25,7 @@ If you have extensions, plugins, blog articles, tips&tricks about pimcore and yo
 * [Poll](https://github.com/pimcore-extensions/poll) - Publish poll on your pimcore powered website
 * [Migrations](https://github.com/akramer-zibra/pimcore-migrations) - Migration scripts with extensible migration aspects 
 * [Logger](https://github.com/dpfaffenbauer/pimcore-logger) - Enables in Application Logging
+* [Migrations](https://github.com/pimcore-extensions/community) - Enables support for programmable migrations
 
 ## Area Bricks
 *The areablock is the content construction kit for documents offered by pimcore. [Developer Guide](https://www.pimcore.org/wiki/display/PIMCORE3/Create+your+own+bricks)**
