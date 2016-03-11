@@ -25,7 +25,7 @@ If you have extensions, plugins, blog articles, tips&tricks about pimcore and yo
 * [Poll](https://github.com/pimcore-extensions/poll) - Publish poll on your pimcore powered website
 * [Migrations](https://github.com/akramer-zibra/pimcore-migrations) - Migration scripts with extensible migration aspects 
 * [Logger](https://github.com/dpfaffenbauer/pimcore-logger) - Enables in Application Logging
-* [Migrations](https://github.com/pimcore-extensions/community) - Enables support for programmable migrations
+* [Migrations](https://github.com/studioemma/pimcore-plugin-migrations) - Enables support for programmable migrations
 
 ## Area Bricks
 *The areablock is the content construction kit for documents offered by pimcore. [Developer Guide](https://www.pimcore.org/wiki/display/PIMCORE3/Create+your+own+bricks)**
