@@ -28,6 +28,7 @@ If you have extensions, plugins, blog articles, tips&tricks about pimcore and yo
 * [Migrations](https://github.com/studioemma/pimcore-plugin-migrations) - Enables support for programmable migrations
 * [Lucene Search for Pimcore 4.0](https://github.com/dachcom-digital/pimcore-lucene-search) - Totally rewritten Lucene Search for Pimcore 4.0
 * [Pimcore Form Builder for Pimcore 4.0](https://github.com/dachcom-digital/pimcore-formbuilder) - Totally rewritten Formbuilder for Pimcore 4.0
+* [CoreShop](https://github.com/coreshop/coreshop) - The first open Source Onlineshop Plugin for Pimcore
 
 
 ## Area Bricks
