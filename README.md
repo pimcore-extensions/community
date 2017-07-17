@@ -20,24 +20,24 @@ If you have extensions, plugins, blog articles, tips&tricks about pimcore and yo
 *In order to be able to enhance pimcore and its already powerful core features, pimcore comes along with a [plugin API](https://www.pimcore.org/wiki/display/PIMCORE3/Plugin+Developer%27s+Guide)*
 
 * [Example Plugin](https://github.com/pimcore/plugin-example) - A pimcore plugin skelton
-* [Form Builder](https://github.com/brainsbucket/Zendformbuilder) - Build Zend_Form quickly and easily (1.4.5 and higher)
+* ~~[Form Builder](https://github.com/brainsbucket/Zendformbuilder) - Build Zend_Form quickly and easily (1.4.5 and higher)~~
 * [SphinxSearch](https://github.com/ThomasKeil/pimcore-plugin-SphinxSearch) - Sphinx full-text search engine with Pimcore.
 * [Dynamic Dropbox](https://github.com/ThomasKeil/pimcore-plugin-DynamicDropdown) - Adds an input element to pimcore that gets it's data from object contents 
 * [Piwik](https://github.com/pimcore-extensions/Piwik) - Integration Plugin for Piwik into Pimcore
 * [Object Input Restrction](https://github.com/ThomasKeil/pimcore-plugin-ObjectInputRestriction) - Restrict the rights to access input elements based on Users/Roles
 * [Text Field Counter](https://github.com/ThomasKeil/pimcore-plugin-TextfieldCounter) - Adds a counter to textfields that display the amount of remaining characters
-* [Search PHP](https://github.com/pimcore-extensions/search-php) - This plugin provides a search for your website
+* ~~[Search PHP](https://github.com/pimcore-extensions/search-php) - This plugin provides a search for your website~~
 * [Hide Status Bar](https://github.com/basilicom/pimcore-plugin-hide-status-bar) - Hides the Pimcore status bar (version info and warnings) for ordinary users. 
 * [Humans Pimcore Plugin](https://github.com/basilicom/pimcore-plugin-humans) - Pre-installed people avatars instead of robot defaults for the pimcore CMS. 
-* [Blog](https://github.com/pimcore-extensions/blog) - Blog plugin for pimcore
-* [Contact](https://github.com/pimcore-extensions/contact) - Pimcore Contact Plugin
-* [Commenting](https://github.com/pimcore-extensions/commenting) - Pimcore Commenting Plugin
-* [Poll](https://github.com/pimcore-extensions/poll) - Publish poll on your pimcore powered website
+* ~~[Blog](https://github.com/pimcore-extensions/blog) - Blog plugin for pimcore~~
+* ~~[Contact](https://github.com/pimcore-extensions/contact) - Pimcore Contact Plugin~~
+* ~~[Commenting](https://github.com/pimcore-extensions/commenting) - Pimcore Commenting Plugin~~
+* ~~[Poll](https://github.com/pimcore-extensions/poll) - Publish poll on your pimcore powered website~~
 * [Migrations](https://github.com/akramer-zibra/pimcore-migrations) - Migration scripts with extensible migration aspects 
-* [Logger](https://github.com/dpfaffenbauer/pimcore-logger) - Enables in Application Logging
+* ~~[Logger](https://github.com/dpfaffenbauer/pimcore-logger) - Enables in Application Logging~~
 * [Migrations](https://github.com/studioemma/pimcore-plugin-migrations) - Enables support for programmable migrations
 * [Lucene Search for Pimcore 4.0](https://github.com/dachcom-digital/pimcore-lucene-search) - Totally rewritten Lucene Search for Pimcore 4.0
 * [Pimcore Form Builder for Pimcore 4.0](https://github.com/dachcom-digital/pimcore-formbuilder) - Totally rewritten Formbuilder for Pimcore 4.0
-* [CoreShop](https://github.com/coreshop/coreshop) - The first open Source Onlineshop Plugin for Pimcore
+* [CoreShop](https://github.com/coreshop/coreshop) - CoreShop, the e-commerce Plugin for Pimcore
 * [Supercache Plugin](https://github.com/luklewluk/SupercachePlugin) - Static pages & files caching system for Pimcore (full page cache)
 * [ImportDefinitions](https://github.com/w-vision/ImportDefinitions) - Create Import Definitions and start them over again. The plugin takes care about creating new Objects or Updating existing ones
