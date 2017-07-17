@@ -1,12 +1,22 @@
 # Pimcore Extensions Community
 
-Pimcore is growing fast but extensions ecosystem is being left behind. This is why we decided to create Pimcore Extensions Community. See our plugins [published here](https://github.com/pimcore-extensions).
+Pimcore is growing fast but extensions ecosystem is being left behind. This is why we decided to create Pimcore Extensions Community. We used to maintain some Community plugins here as well, but, as you know, time goes on and maintainence got left behind. Therefore we deprecated and abandoned a lof of the old stuff. But, good news: We still keep this list with useful plugins up-to-date :) :beers: 
 
-If you have extensions, plugins, blog articles, tips&tricks about pimcore and you wan't to share with community - [![Join the chat at https://gitter.im/pimcore-extensions/community](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/pimcore-extensions/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) or leave a note through issue tracker of this project.
+If you have extensions, plugins, blog articles, tips&tricks about pimcore and you wan't to share with community leave a note through the issue tracker of this project.
 
 # List of Pimcore Plugins and area bricks
 
-## Plugins
+## Plugins for Pimcore >= 5
+* [CoreShop](https://github.com/coreshop/coreshop) - CoreShop, the e-commerce Plugin for Pimcore
+* [Import Definitions](https://github.com/w-vision/ImportDefinitions) - Create Import Definitions and start them over again. The plugin takes care about creating new Objects or Updating existing ones
+* [Process Manager](https://github.com/dpfaffenbauer/ProcessManager) - Create Processes and run them within Pimcore, if supported by the Process, you can even track the state
+* [Lucene Search](https://github.com/dachcom-digital/pimcore-lucene-search) - Full Indexed Frontend Search for Pimcore 5 based on Zend Lucene
+* [Toolbox](https://github.com/dachcom-digital/pimcore-toolbox) - The Toolbox is a Kickstarter for your every day project. It provides some important bricks and structure basics which allows rapid and quality-orientated web development
+* [Output Data Toolki](https://github.com/pimcore/output-data-config-toolkit) - This toolkit provides an user interface to create output formats for objects based on different output channels
+* [Web2Print Tools](https://github.com/pimcore/web2print-tools) - Adds a bunch of features for Pimcore Web2Print
+* [Pimcore I18n Helper](https://github.com/dachcom-digital/pimcore-i18n) - This Bundle helps you mastering this challenges and gives you freedom to elaborating complex country based localization strategies
+
+## Plugins for Pimcore <= 4
 *In order to be able to enhance pimcore and its already powerful core features, pimcore comes along with a [plugin API](https://www.pimcore.org/wiki/display/PIMCORE3/Plugin+Developer%27s+Guide)*
 
 * [Example Plugin](https://github.com/pimcore/plugin-example) - A pimcore plugin skelton
@@ -30,12 +40,4 @@ If you have extensions, plugins, blog articles, tips&tricks about pimcore and yo
 * [Pimcore Form Builder for Pimcore 4.0](https://github.com/dachcom-digital/pimcore-formbuilder) - Totally rewritten Formbuilder for Pimcore 4.0
 * [CoreShop](https://github.com/coreshop/coreshop) - The first open Source Onlineshop Plugin for Pimcore
 * [Supercache Plugin](https://github.com/luklewluk/SupercachePlugin) - Static pages & files caching system for Pimcore (full page cache)
-
-
-## Area Bricks
-*The areablock is the content construction kit for documents offered by pimcore. [Developer Guide](https://www.pimcore.org/wiki/display/PIMCORE3/Create+your+own+bricks)**
-
-* [Example Area Brick](https://github.com/pimcore/areabrick-example) - An example area brick
-
-## Application Examples
-* [Office Supplies](https://github.com/pimcore-usa/office-supplies-demo-pimcore) - Simple Pimcore PIM demo with some office supply categories and products. 
+* [ImportDefinitions](https://github.com/w-vision/ImportDefinitions) - Create Import Definitions and start them over again. The plugin takes care about creating new Objects or Updating existing ones
